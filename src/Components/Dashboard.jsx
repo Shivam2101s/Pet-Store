@@ -95,10 +95,10 @@ export const Dashboard = () => {
       <div id="mid_div">
         <h2 id="sec_head">Pet details</h2>
         <select name="filter" onChange={handleFilter}>
-          <option value="all" >
+          <option value="" hidden>
             Filter by Status
           </option>
-          
+          <option value="all">Show all</option>
           <option value="Available">Available</option>
           <option value="Adopted">Adopted</option>
         </select>
