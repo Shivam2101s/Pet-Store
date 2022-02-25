@@ -1,17 +1,17 @@
-## Pet Store
+# Pet Store
 A small react app to keep the data of the pets available in the sore.
 
-# Demo video
+## Demo video
 
 link: https://drive.google.com/file/d/1mKyurnxYOGVfxZ_gekpFkF2K9IXDQemr/view?usp=sharing; 
 
 ### To run the app 
  -> Clone the repo 
  -> In terminal 
-   # npm install 
-   # npm start
+   #### npm install 
+   #### npm start
  -> In a Seperate Terminal 
-   #  json-server --watch db.json --port 4000 
+   ####  json-server --watch db.json --port 4000 
      to start the json server
 
 Runs the app in the development mode.\
