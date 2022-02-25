@@ -7,12 +7,12 @@ link: https://drive.google.com/file/d/1mKyurnxYOGVfxZ_gekpFkF2K9IXDQemr/view?usp
 
 ### To run the app 
  -> Clone the repo 
- -> In terminal 
-     npm install 
-     npm start
- -> In a Seperate Terminal 
-      json-server --watch db.json --port 4000 
-  ####   to start the json server
+    -> In terminal 
+   #### npm install 
+   #### npm start
+   -> In a Seperate Terminal (to start the json server) 
+   #### json-server --watch db.json --port 4000 
+    
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
