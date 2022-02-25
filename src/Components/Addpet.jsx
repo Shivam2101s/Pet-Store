@@ -30,6 +30,7 @@ export const Addpet = () => {
         "content-type": "application/json",
       },
     }).then(() => {
+      alert("Pet added to inventory !!")
       navigate("/success");
     });
   };

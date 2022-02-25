@@ -1,9 +1,9 @@
 {
   "pets": [
     {
-      "availability": "Available",
+      "availability": "Adopted",
       "breed": "wolf",
-      "name": "Tom",
+      "name": "Jackie",
       "price": "18484",
       "photo": "https://images.pexels.com/photos/4668425/pexels-photo-4668425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "duration": "1 year",
@@ -21,12 +21,21 @@
     },
     {
       "availability": "Available",
-      "breed": "Huskey",
-      "name": "Jonny",
-      "price": "8200",
+      "breed": "Cat",
+      "name": "Mini",
+      "price": "5000",
       "photo": "http://yourdost-blog-images.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2016/01/03165939/Dogs.jpg",
-      "duration": "lifetime",
-      "id": 4
+      "duration": "1 year",
+      "id": 5
+    },
+    {
+      "availability": "Available",
+      "breed": "Horse",
+      "name": "Jhonny",
+      "price": "150000",
+      "photo": "https://images.pexels.com/photos/4668425/pexels-photo-4668425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration": "1 year",
+      "id": 6
     }
   ]
 }
