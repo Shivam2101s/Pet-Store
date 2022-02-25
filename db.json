@@ -18,6 +18,15 @@
       "photo": "https://m.economictimes.com/thumb/msid-72270042,width-1200,height-900,resizemode-4,imgsize-623703/istock-669656070.jpg",
       "duration": "lifetime",
       "id": 3
+    },
+    {
+      "availability": "Available",
+      "breed": "Huskey",
+      "name": "Jonny",
+      "price": "8200",
+      "photo": "http://yourdost-blog-images.s3-ap-southeast-1.amazonaws.com/wp-content/uploads/2016/01/03165939/Dogs.jpg",
+      "duration": "lifetime",
+      "id": 4
     }
   ]
 }

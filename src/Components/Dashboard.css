@@ -5,7 +5,6 @@
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 #dashboard {
-  /* border: 1px solid red; */
   width: 86%;
   padding: 20px;
 }
@@ -76,9 +75,18 @@ border: 1px solid red;
   color: rgb(248, 135, 42);
   font-weight: bold;
 }
-#sec_head{
-  margin-left: 4%;
+#mid_div{
+  width: 95%;
+  margin: auto;
+  padding:0 2%;
+  display: flex;
+  justify-content: space-between;
 }
+#mid_div select{
+padding:7px 10px;
+border:1px solid rgb(255, 176, 101);
+}
+
 .tableDiv {
   padding: 20px;
   width: 95%;
