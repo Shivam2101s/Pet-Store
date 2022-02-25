@@ -52,7 +52,7 @@
 }
 #upper_div_left{
 width: 70%;
-border: 1px solid red;
+padding-left: 10%;
 }
 #upper_div_right{
   width: 22%;

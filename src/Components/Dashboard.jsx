@@ -73,7 +73,9 @@ export const Dashboard = () => {
         </button>
       </div>
       <div id="upper_div">
-        <div id="upper_div_left"></div>
+        <div id="upper_div_left">
+            <img src="https://github.com/Shivam2101s/images/blob/main/graph.jpg?raw=true" alt="" />
+        </div>
         <div id="upper_div_right">
           <p>
             Each year, it's estimated that more than one million adoptable dogs
