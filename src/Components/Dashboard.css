@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#dashboard {
+  /* border: 1px solid red; */
+  width: 86%;
+  padding: 20px;
+}
+
+.main_head_div {
+  width: 98%;
+  margin: auto;
+  border-bottom: 1px solid rgb(226, 226, 226);
+  color: rgb(41, 41, 41);
+  font-size: 30px;
+  font-weight: 700;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.main_head_div h1 {
+  color: rgb(41, 41, 41);
+  font-size: 30px;
+  font-weight: 700;
+}
+#addNewBtn {
+  outline: none;
+  border: none;
+  border-radius: 5px;
+  background-color: rgb(235, 151, 72);
+  color: white;
+  font-weight: 550;
+  font-size: 14px;
+  padding: 5px 20px;
+  transition: 0.5s;
+}
+
+#addNewBtn:hover {
+  background-color: rgb(243, 168, 97);
+}
+#upper_div {
+  width: 95%;
+  height: 280px;
+  margin: 20px auto;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+#upper_div_left{
+width: 70%;
+border: 1px solid red;
+}
+#upper_div_right{
+  width: 22%;
+  border-radius: 15px;
+  background-color: rgb(255, 238, 221);
+  padding:10px;
+  font-weight: 550;
+  color: rgb(150, 150, 150);
+}
+.countDiv{
+  padding:10px;
+  display: flex;
+  justify-content:space-between;
+  text-align:center;
+  font-size: 13px;
+  color: rgb(109, 109, 109);
+}
+.petCount{
+  font-size: 50px;
+  color: rgb(248, 135, 42);
+  font-weight: bold;
+}
+#sec_head{
+  margin-left: 4%;
+}
+.tableDiv {
+  padding: 20px;
+  width: 95%;
+  margin: 20px auto;
+  border-radius: 20px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+table{
+text-align: center;
+border-collapse: collapse;
+margin: 0 auto;
+}
+th {
+  color: rgb(231, 135, 56); 
+  padding:10px 55px ;
+}
+#upper_tr{
+  background-color:white;
+}
+tr {
+  background-color:rgb(246, 246, 246);
+  
+}
+td{
+  padding:5px;
+  border-radius: 5px;
+  border-bottom: 5px solid white;
+  color:rgb(82, 82, 82);
+}
+.actionBtn {
+  border: none;
+  outline: none;
+  background-color: white;
+  transition: 0.5s;
+  margin: 5px;
+}
+.actionBtn:hover{
+  transform: scale(1.4);
+  cursor: pointer;
+}

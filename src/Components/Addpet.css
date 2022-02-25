@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#addpet_div{
+    width: 86%;
+    padding: 20px;
+}
+.main_head_div{
+    width: 98%;
+    margin: auto;
+    border-bottom: 1px solid rgb(226, 226, 226);
+    color:rgb(41, 41, 41);
+    font-size: 30px;
+    font-weight:700;
+    padding: 10px;
+}
+.form_div {
+  
+    width: 40%;
+    margin:30px auto;
+    color:rgb(41, 41, 41);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+}
+.form_div p {
+   font-size:14px;
+}
+#add_form{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: column;
+    font-family: sans-serif;
+    text-align: left;
+    padding: 30px 15%;
+    gap: 10px;
+    font-size:13px;
+    font-weight:550;
+    color:rgb(43, 43, 43);
+}
+#add_form input , select {
+    padding:12px 20px;
+    font-size: 14px;
+    outline:none;
+    border: 1px solid rgb(168, 168, 168);
+    border-radius: 5px ;
+}
+.require{
+    color: red;
+}
+.save_btn{
+outline: none;
+background-color:rgb(235, 151, 72);
+color: white;
+font-weight: 550; 
+}

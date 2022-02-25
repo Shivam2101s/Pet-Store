@@ -1,0 +1,23 @@
+{
+  "pets": [
+    {
+      "availability": "Available",
+      "breed": "wolf",
+      "name": "Tom",
+      "price": "18484",
+      "photo": "https://images.pexels.com/photos/4668425/pexels-photo-4668425.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "duration": "1 year",
+      "id": 2,
+      "period": "lifetime"
+    },
+    {
+      "availability": "Adopted",
+      "breed": "Fox terrier",
+      "name": "Ruby",
+      "price": "75000",
+      "photo": "https://m.economictimes.com/thumb/msid-72270042,width-1200,height-900,resizemode-4,imgsize-623703/istock-669656070.jpg",
+      "duration": "lifetime",
+      "id": 3
+    }
+  ]
+}
