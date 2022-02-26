@@ -6,11 +6,11 @@ A small react app to keep the data of the pets available in the sore.
 link: https://drive.google.com/file/d/1mKyurnxYOGVfxZ_gekpFkF2K9IXDQemr/view?usp=sharing; 
 
 ### To run the app 
- -> Clone the repo 
-    -> In terminal 
+  * Clone the repo 
+  * In terminal 
    #### npm install 
    #### npm start
-   -> In a Seperate Terminal (to start the json server) 
+  * In a Seperate Terminal (to start the json server) 
    #### json-server --watch db.json --port 4000 
     
 
