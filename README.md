@@ -40,3 +40,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Technology used
 
 <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="30%" height="100px" />
+
+## Functionalities
+
+* CRUD Operations 
+* Filtering 
