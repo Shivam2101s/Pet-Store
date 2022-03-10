@@ -28,7 +28,7 @@ export const Addpet = () => {
       body: JSON.stringify(payload),
       headers: {
         "content-type": "application/json",
-      },
+      }
     }).then(() => {
       alert("Pet added to inventory !!")
       navigate("/success");
